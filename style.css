@@ -21,7 +21,6 @@ body {
     background-size: cover;
     height: 100vh;
     animation: slideBackground 10s linear infinite, glowEffect 2s infinite alternate;
-    overflow: hidden; /* Impede que a barra de rolagem apareça */
     opacity: 1;
 }
 
