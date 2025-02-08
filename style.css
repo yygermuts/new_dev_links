@@ -22,6 +22,7 @@ body {
     height: 100vh;
     animation: slideBackground 10s linear infinite, glowEffect 2s infinite alternate;
     opacity: 1;
+    overflow: auto;
 }
 
 @keyframes slideBackground {
